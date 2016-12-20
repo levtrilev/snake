@@ -1,1 +1,6 @@
 c:\хостинг\gitrepos\snake\snake\snake\bin\Debug\snake.exe.config
+c:\хостинг\gitrepos\snake\snake\snake\bin\Debug\snake.exe
+c:\хостинг\gitrepos\snake\snake\snake\bin\Debug\snake.pdb
+c:\хостинг\gitrepos\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+c:\хостинг\gitrepos\snake\snake\snake\obj\Debug\snake.exe
+c:\хостинг\gitrepos\snake\snake\snake\obj\Debug\snake.pdb
